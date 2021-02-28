@@ -64,6 +64,7 @@
 ## Временная диаграмма 
 ![временная диаграмма](https://github.com/salvoronis/FFBD_lab1/blob/master/lab1.srcs/resources/timing_chart.jpg)
 
+## Расход ресурсов на fpga
 
-
+![]()
    

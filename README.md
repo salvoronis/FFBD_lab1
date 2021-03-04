@@ -13,6 +13,8 @@
 ## Комбинационная схема БОЭ
 
 ![комбинационная схема БОЭ](https://github.com/salvoronis/FFBD_lab1/blob/master/lab1.srcs/resources/scheme.jpg)
+![правильная комбинационная схема БОЭ](https://github.com/salvoronis/FFBD_lab1/blob/master/lab1.srcs/resources/comb.png)
+
 ## Исходный код разработанного модуля БОЭ
 
 ```verilog
